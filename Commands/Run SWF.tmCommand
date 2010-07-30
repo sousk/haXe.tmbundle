@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>echo "&lt;meta http-equiv='refresh' content='0; tm-file://$TM_PROJECT_DIRECTORY/$TM_PROJECT_HTDOCS_DIR/index.html'&gt;"
+# echo "&lt;meta http-equiv='refresh' content='0; tm-file://$TM_PROJECT_DIRECTORY/app.swf'&gt;"</string>
+	<key>input</key>
+	<string>none</string>
+	<key>keyEquivalent</key>
+	<string>@r</string>
+	<key>name</key>
+	<string>View SWF</string>
+	<key>output</key>
+	<string>showAsHTML</string>
+	<key>scope</key>
+	<string>haXe</string>
+	<key>uuid</key>
+	<string>A731BC07-DDFC-43FA-B4D8-416149639FCA</string>
+</dict>
+</plist>

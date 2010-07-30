@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>changed</key>
+	<dict>
+		<key>beforeRunningCommand</key>
+		<string>saveModifiedFiles</string>
+		<key>command</key>
+		<string>#!/usr/bin/env bash
+ruby "$TM_BUNDLE_SUPPORT/bin/quick_compile.rb"
+</string>
+		<key>scope</key>
+		<string>haXe</string>
+	</dict>
+	<key>deleted</key>
+	<array/>
+	<key>isDelta</key>
+	<true/>
+	<key>uuid</key>
+	<string>98ECECBB-69EC-4F65-99A0-EDB822C7EAE1</string>
+</dict>
+</plist>

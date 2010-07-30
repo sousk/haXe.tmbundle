@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>HaXe</string>
+	<key>ordering</key>
+	<array>
+		<string>783F7C87-CF2C-4B91-A570-CE99F966FC73</string>
+		<string>98ECECBB-69EC-4F65-99A0-EDB822C7EAE1</string>
+		<string>CEC7690E-9FF3-4D27-869B-AFEBCFEFCBFD</string>
+	</array>
+	<key>uuid</key>
+	<string>FCCDF8F5-CF87-4E15-81FD-8F5B3B74EACC</string>
+</dict>
+</plist>
